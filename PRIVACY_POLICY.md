@@ -1,112 +1,54 @@
-# Privacy Policy for Photo Freshr
+# Privacy Policy
 
-**Last updated: December 18, 2025**
-
-## The Short Version
-
-**Photo Freshr collects no data. Period.**
-
-Your photos and decisions stay on your device. We have no servers, no analytics, no tracking, and no way to access your information.
+**Photo Freshr**  
+Last updated: December 18, 2025
 
 ---
 
-## What This App Does
+## We don't collect your data
 
-Photo Freshr helps you organize your photo library by letting you review and categorize your photos. Here's exactly what happens:
+Photo Freshr is built to work entirely on your device. We don't have servers, we don't run analytics, and we have no way to see your photos or how you use the app.
 
-### Photos You Review
-- The app accesses your device's photo library **only with your explicit permission**
-- Photos are read **locally on your device** — they are never uploaded anywhere
-- Your keep/archive decisions are stored **locally on your device** using on-device storage
-- When you close or delete the app, all decision data is removed with it
-
-### What We Do NOT Do
-- ❌ We do **not** collect any personal data
-- ❌ We do **not** have servers or a backend
-- ❌ We do **not** use analytics or tracking
-- ❌ We do **not** collect device identifiers, IP addresses, or usage data
-- ❌ We do **not** share any information with third parties
-- ❌ We do **not** use advertising or ad networks
-- ❌ We do **not** require an account or login
-- ❌ We do **not** make any network connections
+When you review and organize your photos, everything happens locally. Your decisions are saved on your phone, not in the cloud.
 
 ---
 
-## Permissions
+## What the app accesses
 
-### Photo Library Access
-- **Why we need it**: To display your photos for review and organization
-- **How we use it**: Read-only access to show photos; write access only if you choose to delete/archive photos
-- **How to control it**: You can enable or disable photo access anytime in your device's Settings → Privacy → Photos
+**Your photo library** — With your permission, Photo Freshr reads photos from your device so you can review them. Photos are never uploaded or transmitted anywhere.
 
----
+**Local storage** — The app saves your keep/archive decisions to your device. This data stays on your phone and is deleted when you uninstall the app.
 
-## Data Storage
-
-All app data is stored **locally on your device only**:
-- Your photo organization decisions (keep/archive) are stored in local on-device storage
-- This data never leaves your device
-- Uninstalling the app removes all stored data
+That's it. No accounts, no tracking, no network requests.
 
 ---
 
-## Your Rights
+## What we don't do
 
-Since we don't collect or store any of your data on external servers:
-
-- **There's nothing to request** — we have no data about you
-- **There's nothing to delete** — just uninstall the app to remove all local data
-- **There's nothing to export** — your decisions are already on your device (and you can export them as JSON within the app)
-
-### For California Residents (CCPA/CPRA)
-We do not collect, sell, or share personal information. The CCPA/CPRA rights to know, delete, correct, and opt-out do not apply because we have no personal information to act upon.
-
-### For European Residents (GDPR)
-We do not process personal data. Since no data is collected or transmitted, GDPR data subject rights (access, rectification, erasure, portability, etc.) are not applicable. Your photos remain entirely under your control on your device.
+We don't collect personal information. We don't track usage patterns. We don't use third-party analytics like Firebase or Crashlytics. We don't serve ads. We don't share anything with anyone because there's nothing to share.
 
 ---
 
-## Children's Privacy
+## Your privacy rights
 
-Our app does not collect personal information from anyone, including children under 13 (or 16 in the EU). Since we collect no data, there is no children's data to protect.
+**For California residents**: Under the CCPA, you have the right to know what personal information a business collects and to request its deletion. Since Photo Freshr doesn't collect personal information, these rights don't apply in practice — but you're welcome to contact us with any questions.
 
----
-
-## Third-Party Services
-
-Photo Freshr uses **no third-party services**:
-- No analytics (no Firebase, no Crashlytics, no Mixpanel)
-- No advertising networks
-- No cloud storage
-- No external APIs
+**For European residents**: Under the GDPR, you have rights regarding your personal data including access, correction, and deletion. Since we don't collect or process personal data, these rights aren't applicable — your photos never leave your device and we have no record of you.
 
 ---
 
-## Changes to This Policy
+## Children
 
-If we update this privacy policy, we will post the new version here and update the "Last updated" date. Since we don't collect your email or any contact information, we cannot notify you directly — please check back periodically.
-
----
-
-## Contact Us
-
-If you have questions about this Privacy Policy:
-
-**Email**: ko-fi.resize984@passmail.net
+We don't collect information from anyone, including children. There's nothing to protect because nothing is gathered.
 
 ---
 
-## Summary
+## Changes
 
-| Question | Answer |
-|----------|--------|
-| Do you collect my data? | **No** |
-| Do you have servers? | **No** |
-| Do you track me? | **No** |
-| Do you use analytics? | **No** |
-| Do my photos leave my device? | **No** |
-| Do you share data with anyone? | **No** |
-| Do you sell my data? | **No** |
-| What do you know about me? | **Nothing** |
+If this policy changes, we'll update it here and note the date. Since we don't have your contact information, we can't notify you directly.
 
-**Photo Freshr is designed to be completely private. Your photos, your device, your control.**
+---
+
+## Questions?
+
+Email: ko-fi.resize984@passmail.net
