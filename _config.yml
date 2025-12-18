@@ -1,0 +1,15 @@
+title: Photo Freshr Privacy Policy
+description: Privacy Policy for Photo Freshr Application
+theme: jekyll-theme-cayman
+
+# GitHub Pages configuration
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - .git
+  - .gitignore
